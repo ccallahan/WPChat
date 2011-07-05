@@ -1,0 +1,15 @@
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\csharpirc.AboutBox1.resources
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\csharpirc.FormMain.resources
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\csharpirc.SetupForm.resources
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\bin\Debug\WPChat.exe.manifest
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\bin\Debug\WPChat.application
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\bin\Debug\WPChat.exe
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\bin\Debug\WPChat.pdb
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\WPChat.Properties.Resources.resources
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\WPChat.exe.manifest
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\WPChat.application
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\WPChat.exe
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\WPChat.pdb

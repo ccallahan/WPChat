@@ -1,0 +1,15 @@
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\csharpirc.exe
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\csharpirc.pdb
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\csharpirc.AboutBox1.resources
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\csharpirc.FormMain.resources
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\csharpirc.Properties.Resources.resources
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\csharpirc.SetupForm.resources
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\bin\Debug\csharpirc.exe.manifest
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\bin\Debug\csharpirc.application
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\bin\Debug\csharpirc.exe
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\bin\Debug\csharpirc.pdb
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\csharpirc.exe.manifest
+C:\Users\Chance\Downloads\csharpirc.0.0.5.1-src\csharpirc\obj\Debug\csharpirc.application
